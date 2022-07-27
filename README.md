@@ -5,9 +5,9 @@ Created for React Native Tutorial using Expo and iOS device
 
 <table>
   <tr>
-    <td>**Default Todo's**</td>
-    <td>**Removed 2 Todo's when onclick**</td>
-    <td>**Adding multiple Todo's**</td>
+    <td><b>Default Todo's</b></td>
+    <td><b>Removed 2 Todo's when onclick</b></td>
+    <td><b>Adding multiple Todo's</b></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/64778810/181248393-a9c45ede-ba36-4f90-afc9-76d715d01fd2.PNG" width=300 ></td>
